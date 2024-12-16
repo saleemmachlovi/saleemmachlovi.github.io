@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: 
+timezone: Asia/Karachi
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Saleem Project # the main title
+title: Saleem Machlovi # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Website is currently in process. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   This is a website where i upload my projects.
@@ -28,8 +28,8 @@ url: https://github.com/saleemmachlovi/saleemmachlovi.github.io
 github:
   username: saleemmachlovi # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
     - https://github.com/saleemmachlovi # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    -  https://www.linkedin.com/in/saleem-machlovi-718041267/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode:  #[light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -96,9 +96,8 @@ theme_mode: # [light | dark]
 #
 # e.g. 'https://cdn.com'
 cdn:
-
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dbeautiful%2Bpictures&psig=AOvVaw1KZCIRNeRbxtoGh0wJ8LSn&ust=1734080180505000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi3kLHuoYoDFQAAAAAdAAAAABAE
+avatar: assets/images/IMG_20230403_235752.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
